@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+
+HOW TO RUN-
+git clone " project url";//in terminal
+in Android Studio/VsCode open Terminal And Type Following Command
+1. flutter clean
+2. flutter pub get
+3. flutter run
+   
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
